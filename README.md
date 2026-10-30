@@ -92,7 +92,7 @@ This project combines advanced AI techniques and robust software engineering to 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/rajukonkalla/AI-Powered-RAG-Model.git
+   git clone https://github.com/AntonyJohny/AI_powered_answering_system.git
    cd rag
    ```
 2. (Optional) Create and activate a virtual environment:  
